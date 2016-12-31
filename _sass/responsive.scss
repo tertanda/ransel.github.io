@@ -1,7 +1,10 @@
-@media screen and (min-width: 412px) {
+@media screen and (min-width: 412px) {    
     blockquote p { font-size: 1.5157rem; }
     
     article ul > li::before { margin-right: 0.475rem; }
+    
+    .page-head,
+    .page-foot { font-size: 1.1487rem; }
     
     .site-nav__item { margin-left: 1.5rem; }
 }
@@ -9,7 +12,9 @@
 @media screen and (min-width: 640px) {
     blockquote p { font-size: 1.7411rem; }
     
-    body, cite { font-size: 1.3195rem; }
+    body, cite,
+    .page-head,
+    .page-foot { font-size: 1.3195rem; }
     
     a:hover { color: #333; }
     
