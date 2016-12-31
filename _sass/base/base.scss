@@ -45,7 +45,10 @@ img {
 }
 
 .page-head,
-.page-foot { line-height: 1; }
+.page-foot {
+    font-size: 1rem;
+    line-height: 1;
+}
 
 .site-nav__link,
 .site-foot__copy,
