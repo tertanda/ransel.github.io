@@ -1,0 +1,52 @@
+/*
+ * NORMALIZE STARTS
+ */
+html {
+    font-family: sans-serif;
+    line-height: 1.35;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+article,
+footer,
+header,
+nav,
+section,
+main { display: block; }
+
+a {
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+
+a:active,
+a:hover { outline-width: 0; }
+
+b,
+strong { font-weight: inherit; }
+
+b,
+strong { font-weight: bolder; }
+
+small { font-size: 0.8706rem; }
+
+sub,
+sup {
+    font-size: 0.8706rem;
+    line-height: 0;
+}
+
+sub { margin-bottom: -0.25em; }
+
+sup { margin-top: -0.5em; }
+
+audio,
+video { display: inline-block; }
+
+img { border-style: none; }
+
+svg:not(:root) { overflow: hidden; }
+/*
+ * NORMALIZE ENDS
+ */

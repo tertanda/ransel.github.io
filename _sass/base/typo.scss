@@ -1,0 +1,142 @@
+/*
+ * TYPO STARTS
+ */
+/*
+ | UNIVERSAL STARTS
+ */
+blockquote::after,
+blockquote::before {
+    background-color: #eaeaea;
+    content: " ";
+    display: block;
+    height: 1px;
+    width: 5rem;
+}
+
+.smallcaps {
+    font-family: "Alegreya Sans SC", "Georgia", serif;
+    letter-spacing: 0.025rem;
+    text-transform: lowercase;
+}
+
+.secondary-text { color: #888; }
+
+p,
+.site-item__heading,
+.site-article__footnotes {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.you-are-here { color: #333; }
+/*
+ | UNIVERSAL ENDS
+ */
+
+
+
+
+
+/*
+ | BASE STARTS
+ */
+a {
+    color: #d32f2f;
+    text-decoration: none;
+}
+
+blockquote {
+    font-style: italic;
+    margin: 1rem 0;
+    padding-left: 1.25rem;
+}
+
+blockquote::after,
+blockquote::before { margin-left: -1.25rem; }
+
+blockquote::after { margin-top: 1rem; }
+
+blockquote::before { margin-bottom: 1rem; }
+
+cite {
+    display: block;
+    font-size: 1rem;
+    font-style: normal;
+    margin-top: 1rem;
+}
+
+ol, ul {
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    padding-left: 0;
+}
+
+ul { list-style: none; }
+
+h1, h2, h3, h4, h5 {
+    font-family: "Cormorant Garamond", "Georgia", serif;
+    line-height: 1.125;
+    margin-bottom: 0.4125rem;
+    margin-top: 0;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+h2 { font-size: 1.7411rem; }
+
+h3 { font-size: 1.5157rem; }
+
+h4 { font-size: 1.3195rem; }
+
+h5 { font-size: 1.1487rem; }
+/*
+ | BASE ENDS
+ */
+
+
+
+
+
+/*
+ | ARTICLE STARTS
+ */
+article h2,
+article h3,
+article h4,
+article h5 { padding-top: 1.5rem; }
+
+article p { text-indent: 1.25rem; }
+
+article p:first-of-type,
+article h1 + p,
+article h2 + p,
+article h3 + p,
+article h4 + p,
+article h5 + p { text-indent: 0; }
+
+article ul > li::before {
+    content: "\2219";
+    font-weight: 700;
+    margin-left: -0.8rem;
+    margin-right: 0.5rem;
+}
+
+blockquote p {
+    font-size: 1.3195rem;
+    line-height: 1.25;
+}
+
+p a {
+    background-image: linear-gradient(to top, #d32f2f, #d32f2f 1px, transparent 1px, transparent);
+    background-position: 0 -0.15rem;
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 0 0 #fff, 1px 0 0 #fff, 0 1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+}
+/*
+ | ARTICLE ENDS
+ */
+/*
+ * TYPO ENDS
+ */

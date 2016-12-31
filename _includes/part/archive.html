@@ -1,0 +1,7 @@
+<section class="site-sec__latest">
+    <ul class="site-main__list site-custom__list">
+        {%for post in site.categories.artikel limit: 3%}
+        <li class="site-main__item">{%include sec/list.html%}</li>
+        {%endfor%}
+    </ul>
+</section>

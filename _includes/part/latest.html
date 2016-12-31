@@ -1,0 +1,29 @@
+<section class="site-sec__latest">
+    <ul class="site-main__list site-custom__list">
+    {%if page.url == "/"%}
+        {%for post in site.categories.artikel limit: 1%}
+        <li class="site-main__item">{%include sec/list.html%}</li>
+        {%endfor%}
+        {%for post in site.categories.belamain limit: 1%}
+        <li class="site-main__item">{%include sec/list.html%}</li>
+        {%endfor%}
+        {%for post in site.categories.prinsip limit: 1%}
+        <li class="site-main__item">{%include sec/list.html%}</li>
+        {%endfor%}
+    {%endif%}
+    
+    {%if page.url == "/artikel/"%}
+        {%for post in site.categories.artikel%}
+        <li class="site-main__item">{%include sec/list.html%}</li>
+        {%endfor%}
+    {%elsif page.url == "/belajar/"%}
+        {%for post in site.categories.belajar%}
+        <li class="site-main__item">{%include sec/list.html%}</li>
+        {%endfor%}
+    {%elsif page.url == "/prinsip/"%}
+        {%for post in site.categories.prinsip%}
+        <li class="site-main__item">{%include sec/list.html%}</li>
+        {%endfor%}
+    {%endif%}
+    </ul>
+</section>

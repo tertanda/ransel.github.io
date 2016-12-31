@@ -1,0 +1,20 @@
+/*
+ * HEADER STARTS
+ */
+.page-head { border-bottom: 1px solid #eaeaea; }
+
+.site-nav__link { display: block; }
+
+.site-nav__home { float: left; }
+
+.site-nav__list { float: right; }
+
+.site-nav__item {
+    float: left;
+    margin-left: 1rem;
+}
+
+.site-nav__item:first-of-type { margin-left: 0; }
+/*
+ * HEADER ENDS
+ */

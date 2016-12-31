@@ -1,0 +1,16 @@
+<header class="page-head page-wrapper">
+    <nav class="site-nav__head page-column smallcaps">
+        <a href="{%if page.url == '/'%}{{site.baseurl}}/#{%else%}{{site.baseurl}}/{%endif%}" class="site-nav__link site-nav__home {%if page.url == '/'%}you-are-here{%endif%}" title="Halaman Utama"><strong>Ransel</strong></a>
+        <ul class="site-nav__list site-custom__list page-column">
+            <li class="site-nav__item">
+                <a href="{%if page.url == '/artikel/'%}{{site.baseurl}}/artikel/#{%else%}{{site.baseurl}}/artikel/{%endif%}" class="site-nav__link {%if page.url contains '/artikel/'%}you-are-here{%endif%}" title="Artikel"><strong>Artikel</strong></a>
+            </li>
+            <li class="site-nav__item">
+                <a href="{%if page.url == '/belajar/'%}{{site.baseurl}}/belajar/#{%else%}{{site.baseurl}}/belajar/{%endif%}" class="site-nav__link {%if page.url contains '/belajar/'%}you-are-here{%endif%}" title="Belajar"><strong>Belajar</strong></a>
+            </li>
+            <li class="site-nav__item">
+                <a href="{%if page.url == '/prinsip/'%}{{site.baseurl}}/prinsip/#{%else%}{{site.baseurl}}/prinsip/{%endif%}" class="site-nav__link {%if page.url contains '/prinsip/'%}you-are-here{%endif%}" title="Prinsip"><strong>Prinsip</strong></a>
+            </li>
+        </ul>
+    </nav>
+</header>

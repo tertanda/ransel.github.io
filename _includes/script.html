@@ -1,0 +1,10 @@
+{% if page.url contains "/belajar/" %}
+<script async>function downloadJSAtOnload(){var a=document.createElement("script");a.src="{{site.baseurl}}/wealth/javascript/learn.js",a.async="true",document.body.appendChild(a)}window.addEventListener?window.addEventListener("load",downloadJSAtOnload,!1):window.attachEvent?window.attachEvent("onload",downloadJSAtOnload):window.onload=downloadJSAtOnload;</script>
+{% else %}
+<script async>function downloadJSAtOnload(){var a=document.createElement("script");a.src="{{site.baseurl}}/wealth/javascript/script.js",a.async="true",document.body.appendChild(a)}window.addEventListener?window.addEventListener("load",downloadJSAtOnload,!1):window.attachEvent?window.attachEvent("onload",downloadJSAtOnload):window.onload=downloadJSAtOnload;</script>
+{% endif %}
+<noscript>
+    <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans:400,400i,700,700i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond:700,700i" rel="stylesheet">
+</noscript>
