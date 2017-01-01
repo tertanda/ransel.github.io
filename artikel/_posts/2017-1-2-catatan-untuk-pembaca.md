@@ -17,7 +17,7 @@ meta     : Catatan untuk pembaca, tentang konten apa yang dapat Anda temukan dan
 
 Ketika memulai Ransel, saya mendapat saran dan komentar untuk memperbaiki tampilan. Ada perbedaan besar antara, "Tampilannya kurang menarik," dan "Tulisannya tidak mudah dibaca." Dalam hal ini, yang pertama adalah pendapat, jika Anda mengikutinya, Anda akan membuat kesalahan seperti saya. Sedangkan yang kedua adalah keluhan, orang lain mengeluhkan sesuatu yang bermasalah, jika Anda yang membuatnya, Anda harus memperbaikinya.
 
-Pada dasarnya, saya membuang waktu satu bulan karena mengikuti komentar yang pertama. Sedangkan, saya tidak mendapat komentar yang kedua, yang berarti, semuanya baik-baik saja. Tetapi, saya salah memahaminya. Ini adalah pelajaran yang baik, tetapi yang lebih baik adalah belajar dari kesalahan orang lain. Saran saya, perhatikan dan pahami perbedaan antara pendapat dan keluhan, jangan mengulang kesalahan orang lain, dan jangan memperbaiki sesuatu yang tidak rusak.
+Pada dasarnya, saya membuang waktu satu bulan karena mengikuti komentar yang pertama. Sedangkan, saya tidak mendapat komentar yang kedua, yang berarti, semuanya baik-baik saja. Tetapi, saya salah memahaminya. Ini adalah pelajaran yang baik, tetapi yang lebih baik adalah belajar dari kesalahan orang lain. Perhatikan dan pahami perbedaan antara pendapat dan keluhan, jangan mengulang kesalahan orang lain, dan jangan memperbaiki sesuatu yang tidak rusak.
 
 ## Tipografi dan Ruang Kosong
 
