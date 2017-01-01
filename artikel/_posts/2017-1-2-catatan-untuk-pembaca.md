@@ -5,8 +5,8 @@ category : artikel
 permalink: artikel/:title
 title    : Catatan untuk Pembaca
 author   : El Nino H. Maulana
-intro    : Catatan untuk pembaca Ransel, tentang Konten apa yang dapat Anda temukan dan tidak dapat Anda temukan di Ransel.
-meta     : Catatan untuk pembaca Ransel, tentang Konten apa yang dapat Anda temukan dan tidak dapat Anda temukan di Ransel.
+intro    : Catatan untuk pembaca Ransel, tentang konten apa yang dapat Anda temukan dan tidak dapat Anda temukan di sini. Ransel adalah perpustakaan.
+meta     : Catatan untuk pembaca Ransel, tentang konten apa yang dapat Anda temukan dan tidak dapat Anda temukan di sini. Ransel adalah perpustakaan.
 ---
 
 # Catatan untuk Pembaca
