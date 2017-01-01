@@ -27,7 +27,7 @@ Saya ingin situs ini dapat dimuat secepat mungkin, bahkan dengan koneksi interne
 
 ## Pengetahuan dan Prinsip
 
-Ini adalah perpustakaan. Kami membuatnya untuk membantu Anda mempelajari dan memahami desain dengan lebih baik. Pada kolom <span class="smallcaps">BELAJAR</span>, kami ingin membuatnya seperti rak buku yang berisi konten untuk memudahkan Anda mempelajari tipografi, warna, dsb. Kami masih dalam tahap mengerjakannya. Sedangkan, pada kolom <span class="smallcaps">PRINSIP</span>, kami akan menyimpan seluruh prinsip desain yang kami kumpulkan, diperbarui setiap hari Jum'at. Terakhir, artikel baru hanya dipublikasikan setiap hari senin.
+Ini adalah perpustakaan. Kami membuatnya untuk membantu Anda mempelajari dan memahami desain dengan lebih baik. Pada kolom <span class="smallcaps">BELAJAR</span>, kami ingin membuatnya seperti rak buku yang berisi konten untuk memudahkan Anda mempelajari tipografi, warna, dsb. Kami masih dalam tahap mengerjakannya. Sedangkan, pada kolom <span class="smallcaps">PRINSIP</span>, kami akan menyimpan seluruh prinsip desain yang kami kumpulkan, diperbarui setiap hari <span>Jum&rsquo;at</span>. Terakhir, artikel baru hanya dipublikasikan setiap hari senin.
 
 ### Kesimpulan
 
