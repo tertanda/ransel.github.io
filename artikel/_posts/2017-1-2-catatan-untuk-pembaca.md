@@ -11,7 +11,7 @@ meta     : Catatan untuk pembaca, tentang konten apa yang dapat Anda temukan dan
 
 # Catatan untuk Pembaca
 
-<p><date><span class="smallcaps secondary-text">2 Jan 2017 &bull; </span></date><span class="smallcaps secondary-text">El Nino</span> &#10086; <span class="smallcaps">Sesuatu</span> berubah, dan saya mulai memahami bagaimana membuat Ransel sedikit lebih baik. Saya teringat dengan sebuah perkataan, "Jika kau mencoba untuk membuat senang semua orang, kau tidak akan membuat senang siapa pun." Ini adalah surat untuk Anda, pembaca; apa yang dapat Anda harapkan dari Ransel.</p>
+<p><date><span class="smallcaps secondary-text">2 Jan 2017 &bull; </span></date><span class="smallcaps secondary-text">El Nino</span> &#10086; <span class="smallcaps">Sesuatu</span> berubah, dan saya mulai memahami bagaimana membuat Ransel sedikit lebih baik. Saya teringat dengan sebuah perkataan, &ldquo;Jika kau mencoba untuk membuat senang semua orang, kau tidak akan membuat senang siapa pun.&rdquo; Ini adalah surat untuk Anda, pembaca; apa yang dapat Anda harapkan dari Ransel.</p>
 
 ## Saran dan Komentar
 
