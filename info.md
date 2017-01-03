@@ -17,7 +17,7 @@ Seluruh konten Ransel berlisensi <a href="https://creativecommons.org/licenses/b
 
 ## Kolofon
 
-Kami merancang, menulis, dan mengelola situs ini. Kode ditulis menggunakan teknologi: <span class="smallcaps">HTML</span>, Sass, JavaScript, Jekyll, dan Brackets. Tipografi disusun menggunakan *fonts:* Alegreya Sans, Alegreya Sans SC, dan Cormorant Garamond; disajikan melalui Google Fonts. Aset seperti gambar, kode, dsb., disimpan, dan disajikan melalui Medium dan GitHub. Terima kasih untuk orang-orang yang membuatnya.
+Kami merancang, menulis, dan mengelola situs ini. Kode ditulis menggunakan teknologi: <span class="smallcaps">HTML</span>, Sass, JavaScript, Jekyll, dan Brackets. Tipografi disusun menggunakan *fonts:* Alegreya Sans dan Alegreya Sans SC; disajikan melalui Google Fonts. Aset seperti gambar, kode, dsb., disimpan, dan disajikan melalui Medium dan GitHub. Terima kasih untuk orang-orang yang membuatnya.
 
 ## Kontak
 
