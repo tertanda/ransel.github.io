@@ -13,7 +13,6 @@ blockquote::before {
     width: 5rem;
 }
 
-h1, h2, h3, h4, h5,
 .smallcaps {
     font-family: "Alegreya Sans SC", "Georgia", serif;
     letter-spacing: 0.025rem;
@@ -76,7 +75,7 @@ ul { list-style: none; }
 
 h1, h2, h3, h4, h5 {
     font-weight: 400;
-    line-height: 0.75;
+    line-height: 1.125;
     margin-bottom: 0.4125rem;
     margin-top: 0.125rem;
 }
