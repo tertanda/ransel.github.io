@@ -78,7 +78,7 @@ h1, h2, h3, h4, h5 {
     font-weight: 400;
     line-height: 0.75;
     margin-bottom: 0.4125rem;
-    margin-top: 0;
+    margin-top: 0.125rem;
 }
 
 h1 {
@@ -109,6 +109,7 @@ article h3,
 article h4,
 article h5 {
     margin-bottom: 0;
+    margin-top: 0;
     padding-bottom: 1rem;
     padding-top: 1rem;
 }
