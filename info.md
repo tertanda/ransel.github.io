@@ -7,13 +7,13 @@ meta  : Ransel adalah tempat favorit desainer untuk membaca artikel desain, tipo
 
 # Tentang Ransel
 
-Kami adalah <a href="http://tertanda.com" title="Tertanda">Tertanda</a>. Ransel adalah tempat kami untuk menulis dan mengumpulkan pengetahuan desain. Kami ingin membantu Anda untuk mempelajari dan memahami desain dengan lebih baik.
+Kami adalah <a href="http://tertanda.com" title="Tertanda">Tertanda&deg;</a>. Ransel adalah tempat kami untuk menulis dan mengumpulkan pengetahuan desain. Kami ingin membantu Anda untuk mempelajari dan memahami desain dengan lebih baik.
 
 Kami tidak menulis tutorial yang membantu Anda mempelajari bagaimana menggunakan *software*. Anda tidak mempelajari desain dengan cara seperti itu. Ransel adalah perpustakaan. Kami menulis sesuatu yang berharga untuk ditukar dengan waktu Anda.
 
 ## Lisensi
 
-Seluruh konten Ransel berlisensi <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/" title="Creative Commons"><span class="smallcaps">CC BY-SC-SA 3.0</span></a>. Singkatnya, Anda dapat menggunakan konten Ransel dengan bebas, asalkan tidak untuk kepentingan komersial. Terima kasih telah menghargainya.
+Seluruh konten Ransel berlisensi <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/" title="Creative Commons"><span class="smallcaps">CC BY-SC-SA 3.0</span>&deg;</a>. Singkatnya, Anda dapat menggunakan konten Ransel dengan bebas, asalkan tidak untuk kepentingan komersial. Terima kasih telah menghargainya.
 
 ## Kolofon
 
